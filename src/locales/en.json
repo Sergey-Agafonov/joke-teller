@@ -1,0 +1,10 @@
+{
+  "title": "Just for laughs",
+  "translating": "Translating...",
+  "reset": "reset to original",
+  "more": "Tell me more!",
+  "jokes-error": "Jokes could not be retrieved. Please try again later.",
+  "translation-error": "Translation service is unavailable. Please try again later.",
+  "select-translation": "Select translation...",
+  "jokes-loading": "Loading jokes..."
+}

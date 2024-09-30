@@ -1,0 +1,9 @@
+$font-size-base: 1.4rem;
+
+@import "bootstrap/scss/bootstrap";
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
